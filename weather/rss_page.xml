@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://www.weather.gov/rss_page.php?site_name=nws" rel="self" type="application/rss+xml" />
+        <title>National Weather Service</title>
+        <link>http://www.weather.gov</link>
+        <description>Latest News Headlines</description>
+        <item>
+            <title>Heavy Rain in Southeast Texas; Severe Storms Possible in the Plains</title>
+            <link>origin.wpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=pmdspd</link>
+            <guid>https://www.weather.gov/nws/20230509kn01</guid>
+            <pubDate>Tue, 09 May 2023 14:19:06 +0000</pubDate>
+        </item>
+    </channel>;

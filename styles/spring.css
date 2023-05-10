@@ -1,0 +1,104 @@
+/**
+* Author: Maribel Bustamante
+* Assignment #13 style.css
+*  CSS style sheet for index.php signup.php and admin.php
+ */
+
+body {
+    background-color:#ffe4e1;
+}
+
+font {
+    font-size: 19px;
+}
+
+p {
+    font-size: 20px;
+    color: #7f8c8d ;
+    margin-bottom: 100px;
+    position: center;
+    text-align: center;
+
+}
+
+
+tr:nth-child(even) {
+    background-color: #c1bfbf;
+}
+
+
+.header .pure-menu {
+    border-bottom-color: black;
+    border-radius: 0;
+}
+
+.pure-menu-link {
+    padding: 1em .7em;
+}
+
+.form-box {
+    text-align: center;
+    font-size: 150%;
+    border-bottom: 4px solid #eee;
+}
+
+.form-box .pure-button {
+    background-color: forestgreen;
+    color: floralwhite;
+    vertical-align: top;
+    font-size: 90%;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-radius: 4px;
+    margin: 0.3em;
+}
+
+.pure-form input[type] {
+    margin: 0.3em;
+}
+
+/**
+
+*black text box
+*/
+.l-box {
+    text-align: match-parent;
+    padding: 2em;
+    margin-bottom: 3em;
+    font-size: 20px;
+}
+
+
+.text-box {
+    overflow: hidden;
+    position: relative;
+    height: 200px;
+    text-align: center;
+    background: #333333;
+    color: rgb(255, 190, 94);
+    border-bottom: 8px solid #eeeeee;
+}
+
+.text-box-head {
+    color: #fff;
+    padding-bottom: 0.2em;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 50px;
+}
+
+.text-box-subhead {
+    font-weight: normal;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.footer {
+    background: #111;
+    color: #666;
+    text-align: center;
+    padding: 1em;
+    font-size: 100%;
+}
