@@ -4,7 +4,7 @@
 <!-- Final Assignment:  admin.php-->
 <!-- Password-protected page that verifies if user's session is active using-->
 <!-- SESSION variable. If logged in, starts session and displays welcome message-->
-<!-- with grey background color. Otherwise, redirects user to error page.This page displays all the data in the users table-->
+<!-- with grey background color. Otherwise, redirects user to error page.This page displays all the data in the users table -->
 <!-- with edit and delete buttons to update data.-->
 <head>
   <meta charset="UTF-8">

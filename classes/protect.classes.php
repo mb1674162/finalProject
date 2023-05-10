@@ -4,6 +4,7 @@
  * Author: Maribel Bustamante
  * Final Assignment: protect.classes.php
  * Class to password protect admin page.
+ *
  */
   class Protect {
 

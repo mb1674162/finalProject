@@ -9,6 +9,7 @@
   session_unset();
   session_destroy();
 
+
   // Navigate back to index page
   header("location: ../index.php?error=none");
 

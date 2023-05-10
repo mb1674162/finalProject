@@ -3,6 +3,7 @@
   /**
    * Author: Maribel Bustamante
    *
+   *
    * Final Assignment: edit.php
    * Processes information after an "edit" form is submitted in order to
    * update a record in the users table.

@@ -2,7 +2,8 @@
 
   /**
    * Author: Maribel Bustamante
-   * Final Assignment : footer.classes.php
+   * Final Assignment :     
+   * footer.classes.php
    * Footer class to dynamically insert html footer element to project pages.
    */
   class Footer {

@@ -3,6 +3,7 @@
   /**
    * Author: Maribel Bustamante
    *
+   *
    * Final Assignment: delete.php
    * Logic to handle record deletion from users
    * table after delete button is clicked on admin.php using the id passed in

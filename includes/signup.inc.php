@@ -5,7 +5,7 @@
 <!--* Final Assignment : signup.inc.php-->
 <!--* File where user data is sent to once the signup button/ link is clicked-->
 <!--* inside the signup form, and validated inside database.-->
-<!--*/-->
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />

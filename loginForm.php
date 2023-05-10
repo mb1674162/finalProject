@@ -2,7 +2,7 @@
 <html lang="en">
 <!-- Author: Maribel Bustamante
     Final Assignment: loginForm.php
-    Displays loginForm from the menu button-->
+    Displays loginForm from the menu button -->
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />

@@ -1,6 +1,7 @@
 <?php
   /**
    * Author: Maribel Bustamante
+   *
    * Final Assignment : header.classes.php
    * Header class to dynamically insert html header element to project pages.
    */

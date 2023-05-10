@@ -3,7 +3,8 @@
   /**
    * Author: Maribel Bustamante
    *
-   * Final Assignment dbh.classes.php
+   * Final Assignment 
+   * dbh.classes.php
    * Database handler file with all the settings to connect to final
    * database, and access tables.
    *

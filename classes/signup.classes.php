@@ -3,6 +3,7 @@
    * Author: Maribel Bustamante
    * Final Assignment: signup.classes.php
    * Methods and properties that allow changes to the database.
+*
    */
 
 

@@ -4,6 +4,7 @@
  * Final Assignment: menu.classes.php
  * Navigation Menu class to dynamically insert html navigation menu element
  * inside header to project pages.
+ *
  */
   class Menu {
 

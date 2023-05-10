@@ -4,6 +4,7 @@
    * Final Assignment: login.classes.php
    * Methods and properties that allow users to validate username and password
    * against the database.
+   *
    */
 
   class Login {
